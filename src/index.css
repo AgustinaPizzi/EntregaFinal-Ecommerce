@@ -36,7 +36,6 @@ h1 {
   font-weight: 500;
   line-height: 1.2;
   color: var(--bs-heading-color);
-  
 }
 
 button {
@@ -57,44 +56,43 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
-.navbar-expand-xl{
- background-color: rgba(127, 255, 249, 0.781);
 
+.col-6 {
+  flex: 0 0 auto;
+  width: 370px;
 }
-.img-card{
+.navbar-expand-xl {
+  background-color: rgba(127, 255, 249, 0.781);
+}
+.img-card {
   width: 300px;
   height: 400px;
 }
 .card-title {
   color: rgb(62, 0, 0);
 }
-.productos{
+.productos {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
   padding-block: 2rem;
 }
 .ver-mas {
-    text-decoration: none;
-    background-color:rgb(0, 179, 255);
-    color: white;
-    padding: .5rem;
-    width: max-content;
-    border-radius: .5rem;
-    transition: .2s;
-    width: 100px;
+  text-decoration: none;
+  background-color: rgb(0, 179, 255);
+  color: white;
+  padding: 0.5rem;
+
+  border-radius: 0.5rem;
+  transition: 0.2s;
+  text-align: center;
 }
 
 .ver-mas:hover {
-    background-color:rgb(2, 2, 47);
-    color: white;
+  background-color: rgb(2, 2, 47);
+  color: white;
 }
 
-.precio {
-  font-size: 35px;
-  font-weight: 500;
-  color: rgb(163, 10, 10);
-}
 .carrito {
   width: 50px;
 }
@@ -103,16 +101,30 @@ button:focus-visible {
 .autor,
 .precio,
 .cat {
-  font-size: 20px;
   text-align: center;
   margin-left: 20px;
 }
-.categoria {
-  font-size: .8rem;
-  color: #424242;
+.nombre {
+  font-size: 23px;
+  font-weight: 500;
+  padding-top: 30px;
+}
+.autor {
+  font-size: 22px;
+  font-weight: 600;
+  color: chocolate;
+}
+.cat {
+  font-size: 20px;
+  font-weight: 300;
   margin-top: 1rem;
 }
-
+.precio {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bolder;
+  color: rgb(202, 6, 6);
+}
 .producto-detalle {
   padding-block: 2rem;
   display: grid;
@@ -124,18 +136,15 @@ button:focus-visible {
   width: 350px;
   height: 500px;
 }
-.producto-detalle-name{
+.producto-detalle-name {
   font-size: 100px;
 }
 
-
 .navbar {
- 
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color:#b6b9f3;
- 
+  background-color: #b6b9f3;
 }
 
 .menu {
@@ -144,10 +153,9 @@ button:focus-visible {
   display: flex;
   gap: 30px;
   align-items: baseline;
-
 }
 
-.menu.ul{
+.menu.ul {
   margin-top: 0;
 }
 .menu-link {
@@ -159,24 +167,23 @@ button:focus-visible {
 .menu-link:hover {
   text-decoration: underline;
 }
-.envio-div{
+.envio-div {
   background-color: #dedef6;
 }
-.item-envio{
-  list-style:none;
+.item-envio {
+  list-style: none;
 }
-.envios{
+.envios {
   font-size: 35px;
   padding: 5px;
 }
-.envio-card{
+.envio-card {
   font-size: 25px;
   padding: 10px;
   text-decoration: underline;
   text-align: left;
-
 }
-.txt-envio{
+.txt-envio {
   text-align: left;
 }
 
