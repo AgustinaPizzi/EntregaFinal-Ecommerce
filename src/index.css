@@ -159,6 +159,27 @@ button:focus-visible {
 .menu-link:hover {
   text-decoration: underline;
 }
+.envio-div{
+  background-color: #dedef6;
+}
+.item-envio{
+  list-style:none;
+}
+.envios{
+  font-size: 35px;
+  padding: 5px;
+}
+.envio-card{
+  font-size: 25px;
+  padding: 10px;
+  text-decoration: underline;
+  text-align: left;
+
+}
+.txt-envio{
+  text-align: left;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
