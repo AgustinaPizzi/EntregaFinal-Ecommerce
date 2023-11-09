@@ -186,7 +186,21 @@ button:focus-visible {
 .txt-envio {
   text-align: left;
 }
-
+.btn-carro{
+  background-color:rgb(200, 159, 239);
+  
+}
+.btn-comprar{
+  margin-top: 25px;
+  background-color: #646cff; 
+}
+.btn-vaciar{
+  background-color: rgb(7, 0, 139);
+  
+}
+.precio-total{
+  color: crimson;
+}
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;

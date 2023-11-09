@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { CartContext } from "../Context/CartContext";
+import { CartContext } from "../Context/CartContex/CartContext";
 import { useContext } from "react";
 import { BsFillCartPlusFill } from "react-icons/bs";
 
