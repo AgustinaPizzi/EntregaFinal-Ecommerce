@@ -13,7 +13,7 @@
     {
       "id":2,
       "titulo": "Mujercitas",
-      "categoria": "Clásicos",
+      "categoria": "Clasicos",
       "precio": 26700,
       "stock": 52,
       "autor": "Louisa May Alcott",
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "titulo":"Anna Karenina",
-      "categoria": "Clásicos",
+      "categoria": "Clasicos",
       "precio": 23000,
       "stock": 15,
       "autor": "Lev Tolstói",
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "titulo": "Ana de las tejas verdes",
-      "categoria": "Clásicos",
+      "categoria": "Clasicos",
       "precio": 6290,
       "stock": 15,
       "autor": "Lucy Maud Montgomery",

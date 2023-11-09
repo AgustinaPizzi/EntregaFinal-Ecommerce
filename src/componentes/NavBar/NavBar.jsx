@@ -19,13 +19,13 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link className="menu-link" to="/productos/bienestar">Bienestar</Link>
+          <Link className="menu-link" to="/productos/Bienestar">Bienestar</Link>
         </li>
         <li>
-          <Link className="menu-link" to="/productos/fantasia">Fantasía</Link>
+          <Link className="menu-link" to="/productos/Fantasia">Fantasía</Link>
         </li>
         <li>
-          <Link className="menu-link" to="productos/clasicos">Clásicos</Link>
+          <Link className="menu-link" to="/productos/Clasicos">Clásicos</Link>
         </li>
         <Link className="menu-link" to="/cart">
           <CartWidget />
