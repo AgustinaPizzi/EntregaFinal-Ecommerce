@@ -1,63 +1,273 @@
 [
  {
     "id":1,
-    "titulo": "El cerebro y la inteligencia emocional",
+    "titulo": "AGILMENTE",
     "categoria": "Bienestar",
-    "precio": 10100,
+    "precio": 13100,
     "stock": 300,
-    "autor": "Daniel Goleman",
+    "autor": "BACHRACH, ESTANISLAO",
     "imagen":
-      "https://tvandshow.files.wordpress.com/2016/08/5189f3286915715b50cff89ddded1008_s.jpg?w=200."
+      "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/18a3f57e-1d1f-47fa-b7e2-4a95c70c416d/9789877251715.jpg"
   }, 
 
     {
       "id":2,
-      "titulo": "Mujercitas",
+      "titulo": "MUJERCITAS",
       "categoria": "Clasicos",
       "precio": 26700,
       "stock": 52,
-      "autor": "Louisa May Alcott",
+      "autor": "ALCOTT, LOUISA MAY",
       "imagen":
-        "https://images.cdn2.buscalibre.com/fit-in/360x360/4f/d2/4fd231d86c39e5eea08a956eea83b08b.jpg"
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/206a9635-131e-457c-8e96-f7169ea5a01f/7f460b58-96db-4697-96f4-c6927242adf0.jpg"
     },
     {
       "id": 3,
-      "titulo":"Anna Karenina",
+      "titulo":"ANNA KARENINA",
       "categoria": "Clasicos",
       "precio": 23000,
       "stock": 15,
-      "autor": "Lev Tolstói",
+      "autor": "TOLSTÓI, LEV",
       "imagen":
-        "https://images.cdn3.buscalibre.com/fit-in/360x360/42/be/42be3fae8b5074daefa9717ba1d3f983.jpg"
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/81b1ac3c-aa9c-41b8-a1bc-bf6d20ae73d4/c2c02146-a431-45e4-acbb-89821e9117c7.jpg"
     },
     {
       "id": 4,
-      "titulo": "Ana de las tejas verdes",
+      "titulo": "ANA DE LAS TEJAS VERDES",
       "categoria": "Clasicos",
       "precio": 6290,
       "stock": 15,
-      "autor": "Lucy Maud Montgomery",
+      "autor": "MONTGOMERY, LUCY MAUD",
       "imagen":
-        "https://contentv2.tap-commerce.com/cover/large/9789878120409_1.jpg?id_com=1156"
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/72ec0c00-d5fc-452d-8dab-bc6d83e0d825/de34b2b6-709b-4299-9266-5ae71ee1a41c.jpg"
     },
     {
       "id": 5,
-      "titulo": "Harry Potter y el prisionero de Azkaban",
+      "titulo": "3.HARRY POTTER Y EL PRISIONERO DE AZKABAN",
       "categoria": "Fantasia",
       "precio": 22090,
       "stock": 15,
-      "autor": "J.K Rowling",
+      "autor": "ROWLING, J. K",
       "imagen":
         "https://images.cdn1.buscalibre.com/fit-in/360x360/1a/31/1a3145c3ba83287fabdb65514b893cf6.jpg"
     },
     {
       "id": 6,
-      "titulo": " El hombre en búsqueda del sentido",
+      "titulo": "EL HOMBRE EN BÚSQUEDA DEL SENTIDO",
       "categoria": "Bienestar",
       "precio": 8150,
       "stock": 10,
       "autor": "Viktor Frankl",
       "imagen":
         "https://librosobrelibro.com/wp-content/uploads/2021/01/el-hombre-en-busca-de-sentido-tapa-dura.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "ESTE DOLOR NO ES MIO",
+      "categoria": "Bienestar",
+      "precio": 11500,
+      "stock": 16,
+      "autor": "WOLYNN, MARK",
+      "imagen":
+      "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/3ad7d044-93c3-4551-9795-316fb19f1198/4d45102a-465e-45ba-b3cb-d58098610387.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "EL PODER DE LAS PALABRAS",
+      "categoria": "Bienestar",
+      "precio": 13890,
+      "stock": 10,
+      "autor": "SIGMAN, MARIANO",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/6478ee1b-fa7d-4fa0-9002-5c6327c8ed42/9789877950465.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "LA BAILARINA DE AUSCHWITZ",
+      "categoria": "Bienestar",
+      "precio": 7900,
+      "stock": 10,
+      "autor": "EGER, EDITH",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/693f87bd-fff7-4358-8d31-53cbfb8d7e53/9789878220697.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "INDOMABLE",
+      "categoria": "Bienestar",
+      "precio": 10890,
+      "stock": 10,
+      "autor": "DOYLE, GLENNON",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/ca84db14-c69e-484c-aa7f-e12e9fbec0b1/8cc2ebb9-ae95-489f-9ac0-c36402471c6a.jpg"
+    },
+    {
+      "id": 11,
+      "titulo": "TRES DESEOS",
+      "categoria": "Bienestar",
+      "precio": 5800,
+      "stock": 10,
+      "autor": "MINETTE, BLEU",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/f5244991-1ddf-4ca6-8bc8-e81d9cc4e51b/ac4c0bb1-0d6f-446d-90ed-2e501c89f6ed.jpg"
+    },
+    {
+      "id": 12,
+      "titulo": "DEL AMOR PROPIO AL AMOR AL OTRO",
+      "categoria": "Bienestar",
+      "precio": 13900,
+      "stock": 10,
+      "autor": "SORDO, PILAR",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/611e18f6-9e4a-4a2d-8f14-698529a39178/9789504978770.jpg"
+    },
+    {
+      "id": 13,
+      "titulo": "ORGULLO Y PREJUICIO",
+      "categoria": "Clasicos",
+      "precio": 10700,
+      "stock": 10,
+      "autor": "AUSTEN, JEAN",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/d5f13974-1b0b-4344-8122-1838df2c0a95/e7077e22-a5d2-49fc-ad69-d9c8c007dc52.jpg"
+    },
+    {
+      "id": 14,
+      "titulo": " ILÍADA",
+      "categoria": "Clasicos",
+      "precio": 16990,
+      "stock": 10,
+      "autor": "HOMERO",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/75e03c24-b7a9-4c6a-8db8-632fe2a227c4/96d2a87f-a3f7-49e4-bd32-bc8ba9e4a8c3.jpg"
+    },
+    {
+      "id": 15,
+      "titulo": "LAS MIL Y UNA NOCHES",
+      "categoria": "Clasicos",
+      "precio": 7950,
+      "stock": 10,
+      "autor": "ANÓNIMO",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/7f4e1ba1-35b4-4c01-abf2-790a850db97a/00fc350f-42e1-46a2-b9da-cca93cf9b035.jpg"
+    },
+    {
+      "id": 16,
+      "titulo": "EL RETRATO DE DORIAN GRAY",
+      "categoria": "Clasicos",
+      "precio": 13375,
+      "stock": 10,
+      "autor": "WILDE, OSCAR",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/dacd7ab8-bf9e-439b-8bff-12bdb7c7e4e9/f99b7198-52f5-4c86-9d62-639f5d8d0017.jpg"
+    },
+    {
+      "id": 17,
+      "titulo": "EL FARO DEL FIN DEL MUNDO",
+      "categoria": "Clasicos",
+      "precio": 13350,
+      "stock": 10,
+      "autor": "VERNE, JULIO",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/2b6da3a0-5399-421e-867e-2663a3e0ed2c/e8aa75fb-1238-468d-aaa5-fdc2f47f5244.jpg"
+    },
+    {
+      "id": 18,
+      "titulo": " HOLLY",
+      "categoria": "Fantasia",
+      "precio": 18999,
+      "stock": 10,
+      "autor": "KING, STEPHEN",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/42e1c133-9442-4f44-9531-c0e8d23fcf09/9789506446949.jpg"
+    },
+    {
+      "id": 19,
+      "titulo": " 1. JUEGO DE TRONOS CANCION DE HIELO Y FUEGO",
+      "categoria": "Fantasia",
+      "precio": 19999,
+      "stock": 10,
+      "autor": "MARTIN, GEORGE R.R.",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/40237db5-e7f0-408b-8883-2eaa8837fa40/9789877251470.jpg"
+    },
+    {
+      "id": 20,
+      "titulo": " LA CORTE DE LAS TINIEBLAS ( LIBRO 1 DE VAMPYRIA )",
+      "categoria": "Fantasia",
+      "precio": 16299,
+      "stock": 10,
+      "autor": "DIXEN, VICTOR",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/d44dc614-6346-4173-afbd-a19aa30842b1/7078ce21-bb21-41d0-a6b7-570a2384d0d5.jpg"
+    },
+    {
+      "id": 21,
+      "titulo": " HARRY POTTER Y EL LEGADO MALDITO",
+      "categoria": "Fantasia",
+      "precio": 9990,
+      "stock": 10,
+      "autor": "ROWLING, J. K.",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/72561dc2-116b-46be-b37b-5a719b25ee26/9789878000664.jpg"
+    },
+    {
+      "id": 22,
+      "titulo": "2. HARRY POTTER Y LA CAMARA SECRETA",
+      "categoria": "Fantasia",
+      "precio": 22099,
+      "stock": 10,
+      "autor": "ROWLING, J. K",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/0164b63d-b1e3-4b17-8b13-f1387ca93fd9/9788498380187.jpg"
+    },
+    {
+      "id": 23,
+      "titulo": " LOS JUEGOS DEL HAMBRE ( LIBRO 1 DE LA SAGA LOS JUEGOS DEL HAMBRE )",
+      "categoria": "Fantasia",
+      "precio": 12799,
+      "stock": 10,
+      "autor": "COLLINS, SUZANNE",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/43933708-15ef-4879-9133-3f51ac968232/9789878120201.jpg"
+    },
+    {
+      "id": 24,
+      "titulo": " SINSAJO ( LIBRO 3 DE LA SAGA LOS JUEGOS DEL HAMBRE )",
+      "categoria": "Fantasia",
+      "precio": 17590,
+      "stock": 10,
+      "autor": "COLLINS, SUZANNE",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/bcd85e7b-ad7c-4866-adbe-20f6036adcf1/9789878120225.jpg"
+    },
+    {
+      "id": 25,
+      "titulo": " DESTROZA ESTE DIARIO ( A TODO COLOR )",
+      "categoria": "Bienestar",
+      "precio": 12590,
+      "stock": 10,
+      "autor": "SMITH, KERI",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/df8f51db-d455-44f3-b47a-123eb5732ea0/08ae43bc-1976-484c-8dd0-d5debf3dfce5.jpg"
+    },
+    {
+      "id": 26,
+      "titulo": "FRANKENSTEIN",
+      "categoria": "Clasicos",
+      "precio": 12590,
+      "stock": 10,
+      "autor": "SHELLEY, MARY",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/470f04e6-f62e-4780-aaff-32bfd21ed92d/9788415618799.jpg"
+    },
+    {
+      "id": 27,
+      "titulo": " GILDED",
+      "categoria": "Fantasia",
+      "precio": 12590,
+      "stock": 10,
+      "autor": "MEYER, MARISSA",
+      "imagen":
+        "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/3dc5c802-e4eb-4734-9782-b19b9d95fe97/9789877479478.jpg"
     }
   ]
