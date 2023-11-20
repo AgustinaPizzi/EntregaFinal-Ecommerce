@@ -95,7 +95,7 @@
       "precio": 7900,
       "stock": 10,
       "autor": "EGER, EDITH",
-      "sinopsis":"Eger tena diecisis aos cuando los nazis invadieron su pueblo de Hungra y se la llevaron con el resto de su familia a Auschwitz. Al pisar el campo, sus padres fueron enviados a la cmara de gas y ella permaneci junto a su hermana, pendiente de una muerte segura. Pero bailar El Danubio azul para Mengele salv su vida, y a partir de entonces empez una nueva lucha por la supervivencia. Primero en los campos de exterminio, luego en la Checoslovaquia tomada por los comunistas y, finalmente, en Estados Unidos, donde acabara convirtindose en discpula de Viktor Frankl. Fue en ese momento, tras dcadas ocultando su pasado, cuando se dio cuenta de la necesidad de curar sus heridas, de hablar del horror que haba vivido y de perdonar como camino a la sanacin. Su mensaje es claro: tenemos la capacidad de escapar de las prisiones que construimos en nuestras mentes y podemos elegir ser libres, sean cuales sean las circunstancias de nuestra vida.",
+      "sinopsis":"Eger tenia diecisis años cuando los nazis invadieron su pueblo de Hungra y se la llevaron con el resto de su familia a Auschwitz. Al pisar el campo, sus padres fueron enviados a la cmara de gas y ella permaneci junto a su hermana, pendiente de una muerte segura. Pero bailar El Danubio azul para Mengele salv su vida, y a partir de entonces empez una nueva lucha por la supervivencia. Primero en los campos de exterminio, luego en la Checoslovaquia tomada por los comunistas y, finalmente, en Estados Unidos, donde acabara convirtindose en discpula de Viktor Frankl. Fue en ese momento, tras dcadas ocultando su pasado, cuando se dio cuenta de la necesidad de curar sus heridas, de hablar del horror que haba vivido y de perdonar como camino a la sanacin. Su mensaje es claro: tenemos la capacidad de escapar de las prisiones que construimos en nuestras mentes y podemos elegir ser libres, sean cuales sean las circunstancias de nuestra vida.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/693f87bd-fff7-4358-8d31-53cbfb8d7e53/9789878220697.jpg"
     },
@@ -144,7 +144,7 @@
     },
     {
       "id": 14,
-      "titulo": " ILÍADA",
+      "titulo": "ILÍADA",
       "categoria": "Clasicos",
       "precio": 16990,
       "stock": 10,
@@ -276,7 +276,7 @@
     },
     {
       "id": 26,
-      "titulo": "FRANKENSTEIN",
+      "titulo": "FRANKESTEIN",
       "categoria": "Clasicos",
       "precio": 12590,
       "stock": 10,
