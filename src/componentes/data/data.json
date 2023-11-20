@@ -6,6 +6,7 @@
     "precio": 13100,
     "stock": 300,
     "autor": "BACHRACH, ESTANISLAO",
+    "sinopsis": "¿Crees que ser creativo es un atributo de genios y gurúes? Estás equivocado. Seas quien seas podes cambiar. La creatividad puede expandirse. Hoy la neurociencia es clara: el cerebro aprende hasta el último día de vida. Tu mente, mediante la aplicación de las técnicas correctas, puede modificar la anatomía y estructura de tu cerebro. AgilMente es un libro sobre nuestro talento más preciado y único: la habilidad que tenemos para imaginar y ser más creativos. A través de estas páginas vas a lograr desarrollar todo tu potencial y a entender los mecanismos de tus propios aprendizajes, a comprender cómo utilizar los sentidos, a ampliar la memoria, a focalizar la atención, a controlar las emociones negativas y a disfrutar de las positivas.Déjate llevar en un viaje alucinante y divertido hacia lo más profundo de tu cerebro porque, una vez que lo conozcas, tu vida va a cambiar para siempre.",
     "imagen":
       "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/18a3f57e-1d1f-47fa-b7e2-4a95c70c416d/9789877251715.jpg"
   }, 
@@ -17,6 +18,7 @@
       "precio": 26700,
       "stock": 52,
       "autor": "ALCOTT, LOUISA MAY",
+      "sinopsis":"Meg, Jo, Beth y Amy son cuatro hermanas que se convierten en mujeres durante la guerra civil de Estados Unidos, entre 1861 y 1865. A pesar de la diferencia social, pronto hacen amistad con el joven Laurie, que vive con su abuelo en una elegante mansión cercana.Todos ellos vivirán su propia historia de crecimiento personal y nos irán descubriendo la profundidad de su corazón, en un relato que ha conmovido a millones de lectores en todo el mundo.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/206a9635-131e-457c-8e96-f7169ea5a01f/7f460b58-96db-4697-96f4-c6927242adf0.jpg"
     },
@@ -27,6 +29,7 @@
       "precio": 23000,
       "stock": 15,
       "autor": "TOLSTÓI, LEV",
+      "sinopsis":"Ana Karenina es una de las novelas más representativas de uno de los más preclaros novelistas del siglo XIX. Esta obra, de la época de madurez del autor, refleja toda la problemática de la vieja Rusia. Ana Karenina es la historia de una pasión. La protagonista, que da nombre a la obra, es un personaje inquietante y fascinador por la intensidad de su vida. Tolstoi buen psicólogo y conocedor del mundo que le rodea, abre la intimidad de Ana y traza con pulso firme la trama de esta novela, una obra imperecedera por su hondura, su fuerza y su veracidad. En la novela, Tolstoi utiliza los mismos métodos creativos realistas que en sus primeras obras, pero presenta una unidad artística mucho mas solida. La pasión adultera que Ana siente por el joven oficial Vronsky, contrasta fuertemente con la sana unión que existe entre Kitty y Levine y la plenitud de su vida en el campo. A través de este argumento, Tolstoi se reafirmaba en sus creencias y en su idea crítica respecto a la vida urbana, ahogada por la superficialidad.- Un clásico de uno de los novelistas más importantes de todos los tiempos.- Una lectura fácil, impresionante y esplendida.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/81b1ac3c-aa9c-41b8-a1bc-bf6d20ae73d4/c2c02146-a431-45e4-acbb-89821e9117c7.jpg"
     },
@@ -37,6 +40,7 @@
       "precio": 6290,
       "stock": 15,
       "autor": "MONTGOMERY, LUCY MAUD",
+      "sinopsis":"Con la llegada de Ana Shirley a Avonlea, la vida allí ya no volverá a ser igual. Aunque la desbordante imaginación de Ana provocará más de un desastre, su pelo rojo, su desparpajo y su buen corazón conquistarán a todo aquel que se cruce con ella. Aventura, humor y mucha emoción con uno de los personajes más entrañables de la literatura universal.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/72ec0c00-d5fc-452d-8dab-bc6d83e0d825/de34b2b6-709b-4299-9266-5ae71ee1a41c.jpg"
     },
@@ -47,6 +51,7 @@
       "precio": 22090,
       "stock": 15,
       "autor": "ROWLING, J. K",
+      "sinopsis":"Harry aguarda con impaciencia el inicio del tercer curso en el Colegio Hogwarts de Magia y Hechicería. Tras haber cumplido trece años, solo y lejos de sus amigos de Hogwarts, Harry se pelea con su bigotuda tía Marge, a la que convierte en globo, y debe huir en un autobús mágico. Mientras tanto, de la prisión de Azkaban se ha escapado un terrible villano, Sirius Black, un asesino en serie con poderes mágicos que fue cómplice de lord Voldemort y que parece dispuesto a eliminar a Harry del mapa. Y por si esto fuera poco, Harry debe enfrentarse también a unos terribles monstruos, los dementores, seres abominables capaces de robarles la felicidad a los magos y de borrar todo recuerdo hermoso de aquellos que osan mirarlos. Lo que ninguno de estos malvados personajes sabe es que Harry, con la ayuda de sus fieles amigos Ron y Hermione, es capaz de todo y mucho más.",
       "imagen":
         "https://images.cdn1.buscalibre.com/fit-in/360x360/1a/31/1a3145c3ba83287fabdb65514b893cf6.jpg"
     },
@@ -57,6 +62,7 @@
       "precio": 8150,
       "stock": 10,
       "autor": "Viktor Frankl",
+      "sinopsis":"El doctor Frankl, psiquiatra y escritor, suele preguntar a sus pacientes aquejados de múltiples padecimientos: «¿Por qué no se suicida usted?» Y muchas veces, de las respuestas extrae una orientación para la psicoterapia a aplicar: a éste, lo que le ata a la vida son los hijos; al otro, un talento, una habilidad sin explotar; a un tercero, quizás, sólo unos cuantos recuerdos que merece la pena rescatar del olvido. Tejer estas tenues hebras de vidas rotas en una urdimbre firme, coherente, significativa y responsable es el objeto con que se enfrenta la logoterapia.En esta obra, Viktor E. Frankl explica la experiencia que le llevó al descubrimiento de la logoterapia. Prisionero, durante mucho tiempo, en los desalmados campos de concentración, él mismo sintió en su propio ser lo que significaba una existencia desnuda. ¿Cómo pudo él que todo lo había perdido, que había visto destruir todo lo que valía la pena, que padeció hambre, frío, brutalidades sin fin, que tantas veces estuvo a punto del exterminio, cómo pudo aceptar que la vida fuera digna de vivirla? El psiquiatra que personalmente ha tenido que enfrentarse a tales rigores merece que se le escuche, pues nadie como él para juzgar nuestra condición humana sabia y compasivamente. Las palabras del doctor Frankl alcanzan un temple sorprendentemente esperanzador sobre la capacidad humana de trascender sus dificultades y descubrir la verdad.",
       "imagen":
         "https://librosobrelibro.com/wp-content/uploads/2021/01/el-hombre-en-busca-de-sentido-tapa-dura.jpg"
     },
@@ -67,6 +73,7 @@
       "precio": 11500,
       "stock": 16,
       "autor": "WOLYNN, MARK",
+      "sinopsis":"La evidencia científca muestra que los traumas pueden ser heredados.Existen pruebas fiables de que muchos problemas crónicos o de largo plazo pueden no tener su origen en nuestras vivencias inmediatas o en desequilibrios químicos de nuestro cerebro, sino en las vidas de nuestros padres, abuelos o bisabuelos.Mark Wolynn, fundador y director del Instituto de Constelaciones Familiares (FCI) y pionero en el estudio de los traumas familiares heredados, presenta en «Este dolor no es mío» un enfoque transformador que permite resolver problemas crónicos que no han podido ser aliviados mediante la terapia tradicional, los medicamentos u otras medidas.",
       "imagen":
       "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/3ad7d044-93c3-4551-9795-316fb19f1198/4d45102a-465e-45ba-b3cb-d58098610387.jpg"
     },
@@ -77,6 +84,7 @@
       "precio": 13890,
       "stock": 10,
       "autor": "SIGMAN, MARIANO",
+      "sinopsis":"Nuestra mente es mucho más maleable de lo que creemos y, a pesar de que conservamos toda la vida la misma capacidad de aprender que tenemos de chicos, con el tiempo vamos perdiendo la necesidad y la motivación para hacerlo. Así, empezamos a convencernos de lo que no podemos: o somos malos para la matemática, o no nacimos para la música, o no podemos manejar nuestra ira, o nos es imposible superar el miedo. Este libro sostiene y demuestra que, independientemente del momento de nuestra existencia que atravesemos, podemos demoler esas creencias y cambiar ideas y sentimientos, aun aquellos más profundamente arraigados, aprendiendo a conversar. En efecto, la conversación -con otros y con nosotros- es la herramienta más extraordinaria para transformar nuestra vida. Después del éxito mundial de La vida secreta de la mente, Mariano Sigman reúne los avances más recientes de la neurociencia y los combina con historias de vida y una dosis importante de humor para explicar cómo y por qué las buenas conversaciones mejoran nuestras decisiones, ideas, memoria y emociones. He aquí un poder que está a nuestro alcance y podemos emplear para cambiar nuestra mente y tener una vida mejor: el poder de las palabras.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/6478ee1b-fa7d-4fa0-9002-5c6327c8ed42/9789877950465.jpg"
     },
@@ -87,6 +95,7 @@
       "precio": 7900,
       "stock": 10,
       "autor": "EGER, EDITH",
+      "sinopsis":"Eger tena diecisis aos cuando los nazis invadieron su pueblo de Hungra y se la llevaron con el resto de su familia a Auschwitz. Al pisar el campo, sus padres fueron enviados a la cmara de gas y ella permaneci junto a su hermana, pendiente de una muerte segura. Pero bailar El Danubio azul para Mengele salv su vida, y a partir de entonces empez una nueva lucha por la supervivencia. Primero en los campos de exterminio, luego en la Checoslovaquia tomada por los comunistas y, finalmente, en Estados Unidos, donde acabara convirtindose en discpula de Viktor Frankl. Fue en ese momento, tras dcadas ocultando su pasado, cuando se dio cuenta de la necesidad de curar sus heridas, de hablar del horror que haba vivido y de perdonar como camino a la sanacin. Su mensaje es claro: tenemos la capacidad de escapar de las prisiones que construimos en nuestras mentes y podemos elegir ser libres, sean cuales sean las circunstancias de nuestra vida.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/693f87bd-fff7-4358-8d31-53cbfb8d7e53/9789878220697.jpg"
     },
@@ -97,6 +106,7 @@
       "precio": 10890,
       "stock": 10,
       "autor": "DOYLE, GLENNON",
+      "sinopsis":"",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/ca84db14-c69e-484c-aa7f-e12e9fbec0b1/8cc2ebb9-ae95-489f-9ac0-c36402471c6a.jpg"
     },
@@ -107,6 +117,7 @@
       "precio": 5800,
       "stock": 10,
       "autor": "MINETTE, BLEU",
+      "sinopsis":"Que te quieran. Que te quieras. Que quieras. No necesariamente en este orden, porque la manera en la que sentimos nunca es lineal. Estos son mis tres deseos, para vos y para mí. Cierro los ojos y lo deseo con todo el corazón. Tres deseos es una invitación a evocar los momentos claves y reveladores de nuestras vidas. Un viaje por aquellas experiencias que nos marcaron. Dueña de un estilo propio, Rosario Gonzalez aborda con empatía y sensibilidad temas trascendentales: los vínculos, el amor y el desamor, la pérdida, la soledad y la sanación. Nos alienta a indagar en nuestro interior en busca de esa fuerza que, incluso cuando creemos que ya no podemos, está siempre latente. Y nos ayuda a mejorar nuestra autoestima, a hallar belleza y felicidad en donde ya no esperábamos encontrarla.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/f5244991-1ddf-4ca6-8bc8-e81d9cc4e51b/ac4c0bb1-0d6f-446d-90ed-2e501c89f6ed.jpg"
     },
@@ -117,6 +128,7 @@
       "precio": 13900,
       "stock": 10,
       "autor": "SORDO, PILAR",
+      "sinopsis":"Las consecuencias espirituales de la pandemia, el contexto mundial, la desconexión con nosotros mismos(as) y la necesidad del amor propio como condición para amar al otro son el punto de arranque de este libro conmovedor que nos interpela directamente a encontrar dentro del silencio de cada uno(a) el camino para transitar por la vida conociéndonos, aceptándonos y cuidándonos. Pero este sendero no es fácil, y es aquí donde Pilar Sordo nos guía, desde su propia experiencia y estudios de campo, a descubrirlo a través de determinadas habilidades para aprender a ser un(a)alumno(a) de la vida, cambiando el miedo por la curiosidad, dándoles valor a la pausa y a la disciplina como forma de alcanzar la libertad, siendo flexibles, agradecidos, pacientes y conscientes de que lo único que permanece es el cambio, y entendiendo que no controlamos nada salvo nuestra actitud frente a lo que nos sucede. En Del amor propio al amor al otro aprenderemos que es necesario cuestionar nuestras creencias, que la felicidad requiere coraje y que la inteligencia espiritual es un elemento clave para vivir en paz, de forma consciente y amando al otro(a) sanamente, sin cobros ni dependencias.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/611e18f6-9e4a-4a2d-8f14-698529a39178/9789504978770.jpg"
     },
@@ -137,6 +149,7 @@
       "precio": 16990,
       "stock": 10,
       "autor": "HOMERO",
+      "sinopsis":"Homero es el poeta griego por antonomasia, el poeta divino que influyó decisivamente en el arte, la literatura, la lengua, la religión y la filosofía griegas. Su obra, memorizada por los escolares, ha dejado a través de los siglos una huella indeleble en la vida de los griegos. Homero llegó a Occidente de la mano de Petrarca, cuando estehumanista adquirió los manuscritos de los dos inigualables poemas homéricos que, con gran dolor, no supo descifrar. El mensaje de la Ilíada está, sin embargo, ahora claro para nosotros: aunque los héroes hagan frente al inexorable hado que pesa sobre los mortales cosechando la gloria, nada hay sobre la tierra más miserable que el hombre. La presente edición restituye la obra a sus orígenes ofreciendo una traducción muy literal en verso.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/75e03c24-b7a9-4c6a-8db8-632fe2a227c4/96d2a87f-a3f7-49e4-bd32-bc8ba9e4a8c3.jpg"
     },
@@ -147,6 +160,7 @@
       "precio": 7950,
       "stock": 10,
       "autor": "ANÓNIMO",
+      "sinopsis":"Esta primorosa colección de cuentos es uno de los clásicos de la literatura mundial. En ella se recogen tradiciones de la China, de la India y, por supuesto, del mundo árabe, que sirve de marco a la historia principal y proporciona los elementos exóticos y mágicos que hacen que este libro haya sido uno de los preferidos de los jóvenes de todas las épocas: genios, alfombras voladoras, tesoros…. Sherezade, casada con un príncipe que odia a las mujeres y se ha propuesto matar a todas sus esposas, le cuenta una historia cada noche y la deja inconclusa, para mantener su interés y que la condena se vaya posponiendo. De esta forma se narran más de 73 relatos que contienen otros cuentos dentro de sí, como las cajas chinas y en los que encontramos personajes conocidos, como Aladino o Alí Babá. Y estos cuentos son una verdadera fuente de imaginación, poesía y belleza con la que disfrutar de lleno la literatura.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/7f4e1ba1-35b4-4c01-abf2-790a850db97a/00fc350f-42e1-46a2-b9da-cca93cf9b035.jpg"
     },
@@ -157,6 +171,7 @@
       "precio": 13375,
       "stock": 10,
       "autor": "WILDE, OSCAR",
+      "sinopsis":"«íQué triste es!», murmuró Dorian Gray con los ojos aún fijos en su propio retrato. «íQué triste es! Me volveré viejo, horrible y espantoso. Pero este retrato permanecerá siempre joven. Nunca será más viejo que este día concreto de junio íSi fuera al revés! íSi fuera yo el que fuera siempre joven, y el cuadro el que envejeciera! Por eso por eso ílo daría todo! Sí, no hay nada en el mundo entero que no daría. íDaría mi alma por eso!».Oscar Wilde escribe una sola novela, *El retrato de Dorian Gray; ésta fue el objeto de una crítica moralizante mordaz por parte de sus contemporáneos que no pudieron ver que dentro de una trama perfectamente compuesta se escondía toda la tragedia del romanticismo moderno.Cien años después no ha perdido nada de su impacto original y sigue constituyendo un texto fundamental para los debates de la relación entre la estética y la moral. Abordando desde la ficción debates constantes como la lucha del bien contra el mal, el alma y el cuerpo, el arte y la vida logra compenetrar al lector dentro de estos conceptos y sentimientos sin por un momento perder el suspenso de una historia centrada en alguien solitario que no puede pertenecer a la sociedad de su tiempo o alcanzar la felicidad aún si todo está a su alcance.Esta nueva traducción al español permite una lectura amena y atrapante, apta tanto para quienes se llegan a este libro por primera vez como para aquéllos que se sienten listos para su relectura.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/dacd7ab8-bf9e-439b-8bff-12bdb7c7e4e9/f99b7198-52f5-4c86-9d62-639f5d8d0017.jpg"
     },
@@ -167,6 +182,7 @@
       "precio": 13350,
       "stock": 10,
       "autor": "VERNE, JULIO",
+      "sinopsis":"Una banda de piratas dirigida por el temible Kongre habita en la Isla de los Estados, en la Patagonia argentina, donde se unen los océanos Pacífico y Atlántico. Estos bandidos se dedican a atacar a las embarcaciones que encallan en la zona y su modo de vida se ve en peligro cuando el gobierno pone en funcionamiento el Faro del Fin del Mundo (como se conoce en la actualidad). Ocupado por tres encargados, los piratas asesinan a dos de ellos, pero queda un tercero, Vázquez, quien intentará sobrevivir solo y terminar con las fechorías de la banda de Kongre, hasta que se le une un náufrago estadounidense de origen escocés, John Davis. El faro del fin del mundo se publicó corregida por el hijo de Julio Verne, Michel, en 1905 y posteriormente, ya en 1999, apareció la versión original, sin las modificaciones posteriores, en una editorial canadiense.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/2b6da3a0-5399-421e-867e-2663a3e0ed2c/e8aa75fb-1238-468d-aaa5-fdc2f47f5244.jpg"
     },
@@ -177,6 +193,7 @@
       "precio": 18999,
       "stock": 10,
       "autor": "KING, STEPHEN",
+      "sinopsis":"Holly Gibney, uno de los personajes más cautivadores e ingeniosos de Stephen King, regresa en esta trepidante novela para descubrir la verdad que se esconde tras múltiples desapariciones en una ciudad del Medio Oeste. Cuando Penny Dahl contacta con Finders Keepers para que la ayuden a encontrar a su hija, algo en la voz desesperada de la mujer hace que Holly Gibney se vea obligada a aceptar el trabajo. A poca distancia del lugar en el que Bonnie Dahl desapareció, viven los profesores Rodney y Emily Harris. Son la quintaesencia de la respetabilidad burguesa: un matrimonio octogenario y dedicado de académicos semirretirados. Nadie diría que, en el sótano de su impecable casa forrada de libros, esconden un secreto directamente relacionado con la desaparición de Bonnie. Sin embargo, los Harris son astutos, pacientes y despiadados, y obligarán a Holly a emplear sus habilidades al máximo y a arriesgarlo todo si quiere cerrar el caso más oscuro al que se ha enfrentado jamás. «No podía olvidarme de Holly Gibney. Se suponía que solo iba a ser un personaje secundario en Mr. Mercedes, pero se llevó toda la atención y mi corazón. Holly es ella en estado puro».",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/42e1c133-9442-4f44-9531-c0e8d23fcf09/9789506446949.jpg"
     },
@@ -187,6 +204,7 @@
       "precio": 19999,
       "stock": 10,
       "autor": "MARTIN, GEORGE R.R.",
+      "sinopsis":"Juego de Tronos es el primer volumen de Canción de hielo y fuego, la monumental saga de fantasía épica del escritor George R. R. Martin que ha vendido más de 20 millones de ejemplares en todo el mundo. De la saga que inspiró la filmación de la aclamada serie televisiva de HBO: Game of Thrones. En el legendario mundo de los Siete Reinos, donde el verano puede durar décadas y el invierno toda una vida, y donde rastros de una magia inmemorial surgen en los rincones más sombríos, la tierra del norte, Invernalia, está resguardada por un colosal muro de hielo que detiene a fuerzas oscuras y sobrenaturales. En este majestuoso escenario, Lord Stark y su familia se encuentran en el centro de un conflicto que desatará todas las pasiones: la traición y la lealtad, la compasión y la sed de venganza, el amor y el poder, la lujuria y el incesto, todo ello para ganar la más mortal de las batallas: el trono de hierro, una poderosa trampa que atrapará a los personajes… y al lector.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/40237db5-e7f0-408b-8883-2eaa8837fa40/9789877251470.jpg"
     },
@@ -197,6 +215,7 @@
       "precio": 16299,
       "stock": 10,
       "autor": "DIXEN, VICTOR",
+      "sinopsis":"En el año 1715, El Rey Sol se transmutó en vampyro y de esta forma se convirtió en El Rey de las Tinieblas. Desde entonces, ha estado reinando como un déspota absoluto sobre Vampyria, una coalición de territorios que incluye Francia y sus reinos vasallos y que viven bajo una edad oscura. Sobre la población se imponen una serie de leyes que hacen que ésta viva en un terror perpetuo, siendo literalmente desangrados para así alimentar a la aristocracia vamp ½rica. Tres siglos más tarde, Acusada de conspirar contra la corona, la familia de Jeanne es masacrada. Jeanne, como única superviviente, se integra bajo una falsa identidad en la prestigiosa escuela de la Gran Caballeriza, que entrena a jóvenes nobles antes de que ingresen en la Corte de las Tinieblas. Jeanne tiene un único objetivo: la venganza. Pero entre los muertos vivientes de Versalles, existen traiciones de los otros aspirantes a escuderos y conspiraciones de los rebeldes que actúan en la sombra. ¿Podrá Jeanne sobrevivir el tiempo suficiente para cumplir su misión? La corte de las tinieblas es la primera entrega de Vampyria, una serie de fantasía épica y barroca ideal para las lectoras de Jennifer L. Armentrout y Kerri Maniscalco.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/d44dc614-6346-4173-afbd-a19aa30842b1/7078ce21-bb21-41d0-a6b7-570a2384d0d5.jpg"
     },
@@ -207,6 +226,7 @@
       "precio": 9990,
       "stock": 10,
       "autor": "ROWLING, J. K.",
+      "sinopsis":"Ser Harry Potter nunca ha sido tarea fácil, menos aún desde que se ha convertido en un ocupadísimo empleado del Ministerio de Magia, un hombre casado y padre de tres hijos. Mientras Harry planta cara a un pasado que se resiste a quedar atrás, su hijo menor, Albus, ha de luchar contra el peso de una herencia familiar de la que él nunca ha querido saber nada. Cuando el destino conecte el pasado con el presente, padre e hijo deberán afrontar una verdad muy incómoda: a veces, la oscuridad surge de los lugares más insospechados. Esta edición especial del texto teatral acerca a los lectores la continuación del viaje de Harry Potter, sus amigos y familiares, in mediatamente después del estreno mundial de la obra en el West End de Londres el 30 de julio de 2016.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/72561dc2-116b-46be-b37b-5a719b25ee26/9789878000664.jpg"
     },
@@ -217,6 +237,7 @@
       "precio": 22099,
       "stock": 10,
       "autor": "ROWLING, J. K",
+      "sinopsis":"Mientras Harry espera impaciente en casa de sus insoportables tíos el inicio del segundo curso del Colegio Hogwarts de Magia y Hechicería, un elfo aparece en su habitación y le advierte de que una amenaza mortal se cierne sobre la escuela. Harry no se lo piensa dos veces y, acompañado de Ron, se dirige a Hogwarts en un coche volador. Pero, ¿puede un aprendiz de mago defender la escuela de los malvados que pretenden destruirla? Sin saber que alguien ha abierto la Cámara de los Secretos, dejando escapar una serie de monstruos peligrosos, Harry y sus amigos Ron y Hermione tendrán que enfrentarse con arañas gigantes, serpientes encantadas, fantasmas enfurecidos y, sobre todo, con la mismísima reencarnación de su más temible adversario.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/0164b63d-b1e3-4b17-8b13-f1387ca93fd9/9788498380187.jpg"
     },
@@ -227,6 +248,7 @@
       "precio": 12799,
       "stock": 10,
       "autor": "COLLINS, SUZANNE",
+      "sinopsis":"En una oscura versión del futuro próximo, doce chicos y doce chicas se ven obligados a participar en un reality show llamado Los Juegos del Hambre. Solo hay una regla: matar o morir. Cuando Katniss Everdeen, una joven de dieciséis años se presenta voluntaria para ocupar el lugar de su hermana en los juegos, lo entiende como una condena a muerte. Sin embargo, Katniss ya ha visto la muerte de cerca y la supervivencia forma parte de su naturaleza. Reseñas: «No pude parar de leer… Este libro es adictivo». Stephen King «Los Juegos del Hambre es increíble». Stephenie Meyer",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/43933708-15ef-4879-9133-3f51ac968232/9789878120201.jpg"
     },
@@ -237,6 +259,7 @@
       "precio": 17590,
       "stock": 10,
       "autor": "COLLINS, SUZANNE",
+      "sinopsis":"Katniss Everdeen ha sobrevivido dos veces a los Juegos del Hambre, pero no está a salvo. La revolución se extiende y, al parecer, todos han tenido algo que ver en el meticuloso plan, todos excepto Katniss. Aun así su papel en la batalla final es el más importante de todos. Katniss debe convertirse en el Sinsajo, en el símbolo de la rebelión… a cualquier precio. La crítica ha dicho: «El desenlace de la trilogía Los Juegos del Hambre de Collins consigue una hazaña muy poco común, la última entrega es la mejor». Publishers Weekl",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/bcd85e7b-ad7c-4866-adbe-20f6036adcf1/9789878120225.jpg"
     },
@@ -247,6 +270,7 @@
       "precio": 12590,
       "stock": 10,
       "autor": "SMITH, KERI",
+      "sinopsis":"",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/df8f51db-d455-44f3-b47a-123eb5732ea0/08ae43bc-1976-484c-8dd0-d5debf3dfce5.jpg"
     },
@@ -257,6 +281,7 @@
       "precio": 12590,
       "stock": 10,
       "autor": "SHELLEY, MARY",
+      "sinopsis":"‘Entré en el camarote donde yacían los restos de mi malhadado y admirable amigo. Sobre él se inclinaba un ser para cuya descripción no tengo palabras… Era de estatura gigantesca, y de constitución deforme y tosca. Agachado sobre el ataúd, tenía el rostro oculto por largos mechones de pelo enmarañado; tenía extendida una inmensa mano, del color y la textura de una momia. Cuando me oyó entrar, dejó de proferir exclamaciones de pena y horror, y saltó hacia la ventana. Jamás había visto nada tan horrendo como su rostro, de una fealdad repugnante y terrible. Involuntariamente cerré los ojos e intenté recordar mis obligaciones acerca de este destructivo ser. Le ordené que se quedara.Se detuvo, y me miró sorprendido. Giró de nuevo hacia el cadáver de su creador, pareció olvidar mi presencia; sus facciones y sus gestos parecían animados por la furia de una pasión incontrolable.’",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/470f04e6-f62e-4780-aaff-32bfd21ed92d/9788415618799.jpg"
     },
@@ -267,6 +292,7 @@
       "precio": 12590,
       "stock": 10,
       "autor": "MEYER, MARISSA",
+      "sinopsis":"Marcada por el dios de las mentiras, Serilda ha desarrollado un talento para contar historias atrapantes, asombrosas y… completamente falsas. O eso es lo que todos creen. Cuando llama la atención del siniestro Erlking y sus cazadores no muertos, se ve arrastrada a un mundo sombrio en el que su Oscura Majestad le ordena convertir paja en oro o pagará con su vida la mentira. Y, desesperada, acepta la ayuda de un misterioso joven que invoca por accidente. Pero todo tiene un precio y muy pronto Serilda descubrirá que los muros del castillo esconden muchos secretos… y una maldición que torcerá su destino.",
       "imagen":
         "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/3dc5c802-e4eb-4734-9782-b19b9d95fe97/9789877479478.jpg"
     }
