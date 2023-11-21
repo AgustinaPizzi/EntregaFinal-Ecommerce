@@ -155,7 +155,16 @@ button:focus-visible {
   align-items: center;
   background-color: #b6b9f3;
 }
-
+.titulonav{
+  list-style: none;
+  font-size: 25px;
+  color: rgb(39, 3, 98);
+  margin-right: 300px;
+ 
+}
+.logo{
+  margin-left: 20px;
+}
 .menu {
   padding-right: 18px;
   list-style-type: none;
