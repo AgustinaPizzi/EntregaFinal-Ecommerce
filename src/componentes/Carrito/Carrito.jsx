@@ -28,7 +28,10 @@ const Carrito = () => {
         <>
           <h2 className="precio-total">Precio total: ${precioTotal()}</h2>
           <button onClick={handleVaciar} className="btn-vaciar">Vaciar</button>
+          <button className="fincompra">
           <Link to="/finalizar" className="finalizar">Finalizar compra</Link>
+          </button>
+        
         </>
       ) : (
         <h2>Tu carrito está vacío</h2>

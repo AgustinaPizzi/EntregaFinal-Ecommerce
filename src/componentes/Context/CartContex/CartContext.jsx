@@ -14,7 +14,11 @@ export const CartProvider = ({ children }) => {
     const estaEnElCarrito = nuevoCarrito.find(
       (producto) => producto.id === itemAgregado.id
     );
-
+    Swal.fire(
+      "Producto agregado!",
+      "El producto fue agregado a tu carrito!",
+      "success"
+    );
     if (estaEnElCarrito) {
       estaEnElCarrito.cantidad += cantidad;
     } else {

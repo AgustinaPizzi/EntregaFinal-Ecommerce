@@ -205,15 +205,24 @@ button:focus-visible {
   text-align: left;
 }
 .btn-carro {
-  background-color: rgb(200, 159, 239);
+  background-color: rgb(146, 199, 228);
 }
 .btn-comprar {
   margin-top: 25px;
   background-color: #646cff;
 }
 .btn-vaciar {
-  background-color: rgb(7, 0, 139);
+  background-color: rgb(84, 141, 248);
+  margin: 30px;
 }
+.fincompra{
+  background-color: rgb(163, 8, 147);
+  
+}
+.finalizar{
+  color: #f9f9f9;
+}
+
 .precio-total {
   text-align: center;
   color: rgb(60, 2, 13);
@@ -229,6 +238,29 @@ button:focus-visible {
   color: rgb(12, 176, 176);
   text-align: center;
 }
+.formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  padding: 40px;
+ }
+
+.formulario input {
+  padding: .5rem;
+  width: 18rem;
+  border-radius: .5rem;
+  border: 1px solid black;
+  background-color: #dedef6;
+}
+
+.formulario input:focus {
+  outline: 0;
+  border: 2px solid var(--clr-main);
+  }
+  
+
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
