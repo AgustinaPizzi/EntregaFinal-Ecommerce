@@ -2,7 +2,7 @@
 
 ## Agustina Pizzi
 
-###### name: libreria-pizzi
+## Link Vercel: https://librerialibrodorado.vercel.app/
 
 
 | Librerias                              | Descripcion   |
