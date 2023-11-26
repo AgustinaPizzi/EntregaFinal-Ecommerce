@@ -4,7 +4,6 @@ import { toCapital } from "../helpers/toCapital";
 const ItemList = ({ productos, titulo }) => {
   return (
     <div className="container">
-      
       <h1>🔆 EL LIBRO DORADO 🔆</h1>
       <h2 className="main-title">{toCapital(titulo)}</h2>
       <h3>Los más vendidos del mes</h3>

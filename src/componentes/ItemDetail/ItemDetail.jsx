@@ -3,7 +3,7 @@ import { CartContext } from "../Context/CartContex/CartContext";
 import ItemCount from "../ItemCount/ItemCount";
 
 const ItemDetail = ({ item }) => {
-  const { carrito, agregarAlCarrito } = useContext(CartContext);
+  const { agregarAlCarrito } = useContext(CartContext);
 
   const [cantidad, setCantidad] = useState(1);
 
@@ -22,7 +22,10 @@ const ItemDetail = ({ item }) => {
           <h3 className="titulo">{item.titulo}</h3>
           <p className="autor">{item.autor}</p>
           <p className="categoria">Categoria: {item.categoria}</p>
-          <p className="sinopsis">SINOPSIS: {item.sinopsis}</p>
+          <p className="sinopsis">
+            SINOPSIS:
+            <br></br> {item.sinopsis}
+          </p>
           <p className="precio">$ {item.precio}</p>
           <ItemCount
             cantidad={cantidad}

@@ -4,7 +4,6 @@ import { useParams } from "react-router-dom";
 import { collection, getDocs, query, where } from "firebase/firestore";
 import { db } from "../firebase/config";
 
-
 const ItemListContainer = () => {
   const [productos, setProductos] = useState([]);
   const [titulo, setTitulo] = useState("Productos");
@@ -12,18 +11,18 @@ const ItemListContainer = () => {
 
   useEffect(() => {
     const productosRef = collection(db, "productos");
-    const q = categoria ? query(productosRef, where("categoria", "==", categoria)) : productosRef; //lo usamos porque si no no tenemos como mostrar la pag ppal//
-    
-    getDocs(q)
-    .then((resp) =>{
+    const q = categoria
+      ? query(productosRef, where("categoria", "==", categoria))
+      : productosRef; 
+
+    getDocs(q).then((resp) => {
       setProductos(
         resp.docs.map((doc) => {
-          return { ...doc.data(), id: doc.id }
+          return { ...doc.data(), id: doc.id };
         })
-      )
-
-    })
-}, [categoria]);
+      );
+    });
+  }, [categoria]);
 
   return (
     <div>
