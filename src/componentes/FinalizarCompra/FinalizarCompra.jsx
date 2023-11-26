@@ -1,24 +1,22 @@
 import { useContext, useState } from "react";
 import CartContext from "../Context/CartContex/CartContext";
-import {useForm} from "react-hook-form";
+import { useForm } from "react-hook-form";
 import { collection, addDoc } from "firebase/firestore";
 import { db } from "../firebase/config";
 
-
 const FinalizarCompra = () => {
-  
-    const [pedidoId, setPedidoId] = useState("");
-    const { carrito, precioTotal, vaciarCarrito} = useContext(CartContext)
-    const { register, handleSubmit } = useForm();
+  const [pedidoId, setPedidoId] = useState("");
+  const { carrito, precioTotal, vaciarCarrito } = useContext(CartContext);
+  const { register, handleSubmit } = useForm();
 
-const comprar = (data) => {
+  const comprar = (data) => {
     const pedido = {
       cliente: data,
       productos: carrito,
       total: precioTotal(),
     };
-   
- const pedidosRef = collection(db, "pedidos");
+
+    const pedidosRef = collection(db, "pedidos");
 
     addDoc(pedidosRef, pedido).then((doc) => {
       setPedidoId(doc.id);
@@ -54,7 +52,6 @@ const comprar = (data) => {
           placeholder="Ingresá tu teléfono"
           {...register("telefono")}
         />
-
         <button className="enviar" type="submit">
           Comprar
         </button>
